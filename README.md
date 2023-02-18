@@ -4,15 +4,10 @@ I design and develop concept web applications that makes your life simple.
 
 ##
 
-<br/>
-
 **About me**
 
 - I’m looking for help with Software engineering jobs
 - When I am not writing code, I am wrting articles - either way, I'm writing haha
-
-
-<br/>
 
 ##
 
@@ -27,8 +22,7 @@ I design and develop concept web applications that makes your life simple.
 ![DOCKER](https://img.shields.io/badge/docker-0088CC?&style=for-the-badge&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
-
-
+<!-- 
 ##
 
-![Tolulope's GitHub stats](https://github-readme-stats.vercel.app/api?username=TolulopeJoel&show_icons=true&theme=tokyonight)
+![Tolulope's GitHub stats](https://github-readme-stats.vercel.app/api?username=TolulopeJoel&show_icons=true&theme=tokyonight) -->
