@@ -6,8 +6,8 @@ I design and develop concept web applications that makes your life simple.
 
 **About me**
 
-- I’m looking for help with Software engineering jobs
-- When I am not writing code, I am wrting articles - either way, I'm writing haha
+- Available for software engineering jobs.
+- When I am not writing code, I am wrting articles - either way, I'm always writing haha.
 
 ##
 
