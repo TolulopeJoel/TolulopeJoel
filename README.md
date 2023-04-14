@@ -8,7 +8,7 @@ I design and develop concept web applications that makes your life simple.
 
 - Available for software engineering jobs.
 - When I am not writing code, I am wrting articles - either way, I'm always writing
-  - check out my [newsletter](tolulopejoel.substack.com) or my previous articles on [medium](medium.com/@tolulopejoel).
+  - check out my [newsletter](tolulopejoel.substack.com) or my previous articles on [medium](tolulopejoel.medium.com).
 
 ##
 
