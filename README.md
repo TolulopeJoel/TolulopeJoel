@@ -21,7 +21,6 @@ I design and develop concept web applications that makes your life simple.
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%2314354C.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![DOCKER](https://img.shields.io/badge/docker-0088CC?&style=for-the-badge&logo=docker&logoColor=white)
 <!-- 
 ##
 
