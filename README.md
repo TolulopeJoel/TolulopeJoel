@@ -4,15 +4,6 @@ I design and develop concept web applications that makes your life simple.
 
 ##
 
-**About me**
-
-- Available for software engineering jobs.
-- When I am not writing code, I am wrting articles - either way, I'm always writing
-  - Check my articles on [medium](https://tolulopejoel.medium.com).
-  - Or stay here if you're here for tech technicality 😉
-
-##
-
 ### My Favourite things to build with 💻
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
