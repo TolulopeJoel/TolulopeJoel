@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I design and develop concept web applications that makes your life simple.
 
