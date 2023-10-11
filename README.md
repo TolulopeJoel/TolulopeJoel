@@ -1,3 +1,3 @@
 ### Hi 👋
 
-I build to tools that solve problems.
+I build tools that solve problems.
