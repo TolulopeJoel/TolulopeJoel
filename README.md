@@ -4,4 +4,4 @@
 
 - # 📫 Send a message: toluisjoel@gmail.com
 - # 💼 Current projects: [tolulopejoel.github.io](https://tolulopejoel.github.io)
-- # 💞 Reach out and let's collaborate on innovative projects.
+- # 🤝🏻 Don't be shy to reach out, let's work on some exciting projects :)
