@@ -1,6 +1,6 @@
-* Hi, I'm Tolu. I'm a sofware engineering enthusiast, with a particular interest in software products, backend development, distributed systems, cloud computing, machine learning and AI integration.
+* Hi, I'm Tolu. I'm a sofware engineering enthusiast, with a particular interest in software products, backend development, distributed systems, cloud computing, ML and AI integration.
 
-* Currently, I'm furthering my knowledge by building projects that leverage cloud-based infrastructure and integrates a machine learning model for sentiment analysis.
+* Currently, I'm actively exploring Machine Learning and AI through project-based experiences. I'm building a project that leverages cloud-based infrastructure and integrates a sentiment analysis model.
 
 * I'm passionate about learning, innovating, and building products that have the potential to have a positive impact on people's lives.
 
