@@ -7,4 +7,4 @@
 
 * I'm passionate about learning, innovating, and developing solutions that can positively impact people's lives—while enjoying the process because the journey is just as important as the destination.
 
-* Feel free to send an email to [dotolulope2@gmail.com](mailto:dotolulope2@gmail.com?&cc=dotolulope2@gmail.com&subject=Hi%20Tolu,%20Saw%20your%20profile%20on%20GitHub&body=Hi%20Tolu%20I%20am%20%E2%80%A6)
+* Feel free to send an email to [toluisjoel@gmail.com](mailto:toluisjoel@gmail.com?&cc=dotolulope2@gmail.com&subject=Hi%20Tolu,%20Saw%20your%20profile%20on%20GitHub&body=Hi%20Tolu%20I%20am%20%E2%80%A6)
